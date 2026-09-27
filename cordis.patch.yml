@@ -1,0 +1,7 @@
+# dsh-model-capability-enhancement bundle layer.
+#
+# Installs the plugin as a persistent bundle row (no config needed — the
+# section reads/writes the llm-pi-ai settings namespace directly).
+- insert:
+    - id: dsh-model-capability-enhancement
+      name: dsh-model-capability-enhancement
